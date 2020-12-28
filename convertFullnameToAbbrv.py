@@ -43,33 +43,36 @@ def main():
         all_journal_abbrv.append(j.strip())
 
     journal_line = re.compile(r"\s*(j|J)ournal\s+\=")
+    ref_RN_num = re.compile(r"@article")
     line_of_journal_line = 0
+    j = 1
     with open(input_file_name, "r") as fr:
         line_list = fr.readlines()
     with open(output_file_name,"w") as fw:
         for i, line in enumerate(line_list):
-            if journal_line.match(line.split("{")[0]):
-                line_of_journal_line = i+1
-                line_of_RN_num = line_of_journal_line - 3
-                ref_RN_num = line_list[line_of_RN_num-1].split("{")[1].split(",")[0]
-                journal_name = line_list[line_of_journal_line-1].split("{")[1].split("}")[0]
-                if run == 0 :
-                    if journal_name in all_journal_fullname:
-                        #print(line_of_journal_line)
-                        #print(journal_name)
-                        #print(all_journal_fullname.index(journal_name))
-                        #print(all_journal_abbrv[all_journal_fullname.index(journal_name)])
-                        #print("\n")
-                        fw.write(line_list[line_of_journal_line-1].replace(journal_name,all_journal_abbrv[all_journal_fullname.index(journal_name)]))
-                    else:
-                        fw.write(line)
-                if run == 1:
-                    if journal_name in all_journal_abbrv:
-                        fw.write(line_list[line_of_journal_line-1].replace(journal_name,all_journal_fullname[all_journal_abbrv.index(journal_name)]))
-                    else:
-                        fw.write(line)
+            if ref_RN_num.match(line.split("{")[0]):
+                #print(line.replace(line,"@article{RN%s," % (str(j))))
+                fw.write(line.replace(line,"@article{RN%s," % (str(j))))
+                fw.write("\n")
+                j+=1
             else:
-                fw.write(line)
+                if journal_line.match(line.split("{")[0]):
+                    line_of_journal_line = i+1
+                    #line_of_RN_num = line_of_journal_line - 3
+                    #ref_RN_num = line_list[line_of_RN_num-1].split("{")[1].split(",")[0]
+                    journal_name = line_list[line_of_journal_line-1].split("{")[1].split("}")[0]
+                    if run == 0 :
+                        if journal_name in all_journal_fullname:
+                            fw.write(line_list[line_of_journal_line-1].replace(journal_name,all_journal_abbrv[all_journal_fullname.index(journal_name)]))
+                        else:
+                            fw.write(line)
+                    if run == 1:
+                        if journal_name in all_journal_abbrv:
+                            fw.write(line_list[line_of_journal_line-1].replace(journal_name,all_journal_fullname[all_journal_abbrv.index(journal_name)]))
+                        else:
+                            fw.write(line)
+                else:
+                    fw.write(line)
     return 0
                 
 if __name__ == "__main__":
