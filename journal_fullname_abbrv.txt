@@ -1,0 +1,105 @@
+ACS Catalysis                                                     ;  ACS Catal.  
+Acta Materialia                                                   ;  Acta Mater.  
+Acta Metallurgica et Materialia                                   ;  Acta Metall. Mater.  
+American Mineralogist                                             ;  Am. Mineral.  
+Angewandte Chemie-International Edition                           ;  Angew. Chem. Int. Ed.  
+APL Materials                                                     ;  APL Mat.  
+Applied Catalysis B: Environmental                                ;  Appl. Catal. B-Environ.  
+Applied Physics Letters                                           ;  Appl. Phys. Lett.  
+Applied Surface Science                                           ;  Appl. Surf. Sci.  
+Catalysis Letters                                                 ;  Catal. Lett.  
+Catalysis Today                                                   ;  Catal. Today  
+Chemical Physics Letters                                          ;  Chem. Phys. Lett  
+Chemical Reviews                                                  ;  Chem. Rev.  
+Chemical Society Reviews                                          ;  Chem. Soc. Rev.  
+Chemistry of Materials                                            ;  Chem. Mater.    
+Colloids and Surfaces, A: Physicochemical and Engineering Aspects ;  Colloids Surf., A  
+Computational Materials Science                                   ;  Comp. Mater. Sci.  
+Computer Physics Communications                                   ;  Comput. Phys. Commun.  
+Crystal Growth & Design                                           ;  Cryst. Growth Des.  
+CrystEngComm                                                      ;  CrystEngComm  
+ECS Transactions                                                  ;  ECS Trans.  
+Energy & Environmental Science                                    ;  Energy Environ. Sci.  
+High Pressure Research                                            ;  High Pressure Res.  
+Inorganic Chemistry                                               ;  Inorg. Chem.  
+Industrial & Engineering Chemistry Research                       ;  Ind. Eng. Chem. Res.  
+Japanese Journal of Applied Physics                               ;  Jpn. J. Appl. Phys.  
+Journal of  Materials Research                                    ;  J. Mater. Res.  
+Journal of Alloys and Compounds                                   ;  J. Alloy Compd.  
+Journal of Applied Crystallography                                ;  J. Appl. Crystallogr.  
+Journal of Applied Physics                                        ;  J. Appl. Phys.  
+Journal of Catalysis                                              ;  J. Catal.  
+Journal of Crystal Growth                                         ;  J. Crys. Growth  
+Journal of Materials Chemistry                                    ;  J. Mater. Chem.  
+Journal of Materials Science Letters                              ;  J. Mater. Sci. Lett.  
+Journal of Membrane Science                                       ;  J. Memb. Sci.  
+Journal of Phase Equilibria                                       ;  J. Phase Equilib.  
+Journal of Physics and Chemistry of Solids                        ;  J. Phys. Chem. Solids  
+Journal of Physics: Condensed Matter                              ;  J. Phys.: Condens. Matter  
+Journal of Solid State Chemistry                                  ;  J. Solid State Chem.  
+Journal of the American Ceramic Society                           ;  J. Am. Ceram. Soc.  
+Journal of the American Chemical Society                          ;  J. Am. Chem. Soc.  
+Journal of The Electrochemical Society                            ;  J. Electrochem. Soc.  
+Journal of The Electrochemical Society                            ;  J. Electrochem. Soc.  
+Journal of Membrane Science                                       ;  J. Memb. Sci.  
+Journal of Vacuum Science & Technology A                          ;  J. Vac. Sci. Technol. A  
+Materials Letters                                                 ;  Mater. Lett.  
+Materials Science and Engineering B                               ;  Mat. Sci. Eng. B-Solid  
+Molecular Simulation                                              ;  Mol. Sim.  
+Nature                                                            ;  Nature  
+Nature Materials                                                  ;  Nat. Mater.  
+Philosophical Magazine Letters                                    ;  Phil. Mag. Lett.  
+Philosophical Magazine A                                          ;  Phil. Mag. A  
+Physica A: Statistical Mechanics and its Applications             ;  Physica A  
+Physica B-Condensed Matter                                        ;  Physica B  
+Physical Chemistry Chemical Physics                               ;  Phys. Chem. Chem. Phys.  
+physica status solidi (b)                                         ;  Phys. Status Solidi B  
+Physical Review A                                                 ;  Phys. Rev. A  
+Physical Review B                                                 ;  Phys. Rev. B  
+Physical Review Letters                                           ;  Phys. Rev. Lett.  
+Physics and Chemistry of Minerals                                 ;  Phys. Chem. Miner.  
+Progress in Surface Science                                       ;  Prog. Surf. Sci.  
+Science                                                           ;  Science  
+Sensors and Actuators B: Chemical                                 ;  Sensor. Actuat. B-Chem.  
+Surface Science                                                   ;  Surf. Sci.  
+The European Physical Journal B                                   ;  Eur. Phys. J. B  
+The Journal of Physical Chemistry                                 ;  J. Phys. Chem.  
+The Journal of Physical Chemistry  B                              ;  J. Phys. Chem. B  
+The Journal of Physical Chemistry C                               ;  J. Phys. Chem. C  
+The Journal of Chemical Physics                                   ;  J. Chem. Phys.  
+Thin Solid Films                                                  ;  Thin Solid Films  
+Topics in Catalysis                                               ;  Top. Catal.  
+Water Research                                                    ;  Water Res.  
+Journal of Inorganic and Nuclear Chemistry                        ;  J Inorg Nucl Chem
+Reviews of Modern Physics                                         ;  Rev. Mod. Phys.
+Journal of Radioanalytical and Nuclear Chemistry                  ;  J. Radioanal. Nucl.
+Advanced Energy Materials                                         ;  Adv. Energy Mater.
+Journal of Materials Chemistry A                                  ;  J. Mater. Chem. A
+Journal of Structural Chemistry                                   ;  J. Struct. Chem.
+Nature Communications                                             ;  Nat. Commun.
+Nano Research                                                     ;  Nano Res.
+Physical Review B: Condensed Matter                               ;  Phys. Rev. B: Condens. Matter.
+Advances in Catalysis                                             ;  Adv. Catal.
+Physical review letters                                           ;  Phys. Rev. Lett.
+Computational Materials Science                                   ;  Comput. Mater. Sci.
+Science advances                                                  ;  Sci. Adv.
+Science China Materials                                           ;  Sci. China Mater.
+Nano Energy                                                       ;  Nano Energy
+Chemical Communications                                           ;  Chem. Commun. 
+npj Computational Materials                                       ;  Npj Comput. Mater.
+Journal of Chemical Education                                     ;  J. Chem. Educ. 
+Chemical reviews                                                  ;  Chem. Rev.
+Advanced Materials                                                ;  Adv. Mater.
+Nature Nanotechnology                                             ;  Nat. Nanotechnol.
+Computer Physics Communications                                   ;  Comput. Phys. Commun.
+Nature Catalysis                                                  ;  Nat. Catal.
+Advanced Functional Materials                                     ;  Adv. Funct. Mater.
+ACS Applied Energy Materials                                      ;  ACS Appl. Energy Mater.
+ChemPhysChem                                                      ;  ChemPhysChem
+International Journal of Hydrogen Energy                          ;  Int. J. Hydrog. Energy
+Journal of Computational Chemistry                                ;  J. Comput. Chem.
+Nature Reviews Chemistry                                          ;  Nat. Rev. Chem.
+Annual Review of Condensed Matter Physics                         ;  Annu. Rev. Condens. Matter Phys.
+Nature Chemistry                                                  ;  Nat. Chem.
+Nature Physics                                                    ;  Nat. Phys.
+Nature Energy                                                     ;  Nat. Energy.
