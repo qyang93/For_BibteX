@@ -2,7 +2,8 @@ ACS Catalysis                                                     ;  ACS Catal.
 Acta Materialia                                                   ;  Acta Mater.  
 Acta Metallurgica et Materialia                                   ;  Acta Metall. Mater.  
 American Mineralogist                                             ;  Am. Mineral.  
-Angewandte Chemie-International Edition                           ;  Angew. Chem. Int. Ed.  
+Angewandte Chemie International Edition                           ;  Angew. Chem. Int. Ed.  
+Angewandte Chemie International Edition in English                ;  Angew. Chem. Int. Ed. in English
 APL Materials                                                     ;  APL Mat.  
 Applied Catalysis B: Environmental                                ;  Appl. Catal. B-Environ.  
 Applied Physics Letters                                           ;  Appl. Phys. Lett.  

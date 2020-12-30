@@ -47,7 +47,7 @@ def main():
     line_of_journal_line = 0
     j = 1
     with open(input_file_name, "r") as fr:
-        line_list = fr.readlines()
+        line_list = fr.read().splitlines()
     with open(output_file_name,"w") as fw:
         for i, line in enumerate(line_list):
             if ref_RN_num.match(line.split("{")[0]):
@@ -64,15 +64,20 @@ def main():
                     if run == 0 :
                         if journal_name in all_journal_fullname:
                             fw.write(line_list[line_of_journal_line-1].replace(journal_name,all_journal_abbrv[all_journal_fullname.index(journal_name)]))
+                            fw.write("\n")
                         else:
                             fw.write(line)
+                            fw.write("\n")
                     if run == 1:
                         if journal_name in all_journal_abbrv:
                             fw.write(line_list[line_of_journal_line-1].replace(journal_name,all_journal_fullname[all_journal_abbrv.index(journal_name)]))
+                            fw.write("\n")
                         else:
                             fw.write(line)
+                            fw.write("\n")
                 else:
                     fw.write(line)
+                    fw.write("\n")
     return 0
                 
 if __name__ == "__main__":
